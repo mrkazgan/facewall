@@ -1,7 +1,7 @@
 constants =
 
-    company_name: 'HubSpot'
-    hosted_domain: 'tools.hubteam.com'
+    company_name: 'iTriage'
+    hosted_domain: 'localhost'
 
     app_name: 'facewall'
     api_base: 'kumonga/v2'
